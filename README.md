@@ -1,5 +1,6 @@
 # ColorFilterRec
 Real-time video recorder with color filtering (Grayscale &amp; RGB Inversion) using OpenCV
+
 OpenCV를 사용한 실시간 영상 필터 및 녹화 프로그램
 
 # 주요 기능
