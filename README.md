@@ -4,7 +4,7 @@ Real-time video recorder with color filtering (Grayscale &amp; RGB Inversion) us
 OpenCV를 사용한 실시간 영상 필터 및 녹화 프로그램
 
 # 주요 기능
-video_file 변수에 스트리밍 프로토콜 주소를 입력해 실시간 스트리밍 가능 (0 입력 시 webcam 재생 , 30 frame)
+video_file 변수에 스트리밍 프로토콜 주소를 입력해 실시간 스트리밍 (0 입력 시 webcam 재생 , 30 frame)
 
 SPACE로 영상 녹화 및 저장
 - VXID 코덱으로 저장 위치에 recorded_video.avi 저장 (덮어쓰기를 원하지 않을 시 out = cv.VideoWriter()에 저장할 파일 이름 수정)
